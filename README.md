@@ -1,7 +1,7 @@
-# Generating Pokemon Using a WGAN
+# Generating Pokemon images Using a WGAN
+I've used  [CAT DATASET](http://cocodataset.org/#home) and real pokemon image for WGAN.
 
-This respository uses a WGAN with gradient penalties to generate new pokemon. The model is still being worked on but some current results can be seen below:
+![alt text](https://github.com/Aryan05/Pokemon-GAN/blob/master/generated_pokemon/generated_pokemon_montage.png)
 
-![alt text](https://github.com/p-christ/Generating-Pokemon-Using-a-WGAN/blob/master/generated_pokemon/generated_pokemon_montage.png)
-
-To train the GAN run the notebook `Generating-Pokemon.ipynb` 
+## Final Result
+![](PokemonGAN.jpg)
